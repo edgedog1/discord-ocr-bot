@@ -1,0 +1,5 @@
+discord.py==2.3.2
+pytesseract==0.3.10
+Pillow==10.0.0
+gspread==5.11.3
+oauth2client==4.1.3
